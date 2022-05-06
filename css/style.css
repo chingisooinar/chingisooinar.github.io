@@ -1,0 +1,26 @@
+* { padding: 0; margin: 0; }
+html, body, #fullheight {
+    min-height: 100% !important;
+    height: 100%;
+}
+.social-icons {
+    margin-top: 30px;
+}
+.card{
+    text-align: center;
+}
+.social-icons{
+    margin: auto;
+    width:50%;
+}
+#sidebar{
+    height: 100%;
+}
+.imgContainer img{
+    border-radius: 50%;
+}
+
+.nav li:hover {
+    transform: scale(1.1);
+
+}
